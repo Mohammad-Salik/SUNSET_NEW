@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> ad600003aa24f717a79faadd1e9d9ac7f9d79544
 document.addEventListener( 'keypress', onDocumentKeyPress, false );
 
 // misc
@@ -686,6 +682,4 @@ function printLocation(target){
    }
  }
 
->>>>>>> 438e1a8d33afaa068935ceb53b113107b074bffa
->>>>>>> ad600003aa24f717a79faadd1e9d9ac7f9d79544
 window.onload = init;

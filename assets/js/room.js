@@ -398,11 +398,6 @@ function printLocation(target){
 // camera.position.x = Math.sin(my_counter) * 200;
 // camera.position.z = Math.cos(my_counter) * 200;
 
-<<<<<<< HEAD
-=======
-=======
-document.addEventListener( 'keypress', onDocumentKeyPress, false );
-
 // misc
 let scene, camera, renderer, mesh;
 let ambientLight, light, controls;

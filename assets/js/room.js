@@ -61,7 +61,6 @@ function loadPointLight(){
 }
  
 function init(){
-
    scene = new THREE.Scene();
    scene.background = (new THREE.TextureLoader().load( 'assets/textures/background.jpg' ));
    scene.fog = new THREE.Fog(0x33aaff, 10, 500);
